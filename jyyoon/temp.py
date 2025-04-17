@@ -1,5 +1,5 @@
-def temp(a):
-    print(f'a={a}')
+def temp(a, b):
+    print(f"{a}, b={b}")
 
 
 if __name__ == "__main__":
